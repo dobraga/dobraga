@@ -25,7 +25,7 @@
 ### More about me 🤓
 
 <a href="https://www.linkedin.com/in/dobraga/">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
 
 <a href="https://app.pluralsight.com/profile/douglas-braga">
