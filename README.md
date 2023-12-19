@@ -1,7 +1,6 @@
 ### print("Olá mundo")
 
-- 🔭 Atualmente utilizando Python e R para análises estatísticas e machine learning
-- 🌱 Atualmente estudando sobre MLOps
+- 🔭 Atualmente utilizando Python para análises estatísticas e machine learning
 
 <div>
   <a href="https://github.com/dobraga">
